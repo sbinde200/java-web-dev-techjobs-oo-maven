@@ -7,3 +7,4 @@ public class Location extends JobField {
         super(value);
     }
 }
+
